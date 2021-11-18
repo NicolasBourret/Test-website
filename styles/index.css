@@ -41,8 +41,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+button {
+  cursor: pointer;
+}
+
 p {
   letter-spacing: 2px;
+  color: rgb(153, 153, 153);
 }
 
 a {
@@ -173,7 +178,7 @@ ul {
 
 .swiper {
   max-width: 1080px;
-  height: 200px;
+  height: 300px;
 }
 
 .countdown {
@@ -190,6 +195,10 @@ ul {
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
   padding: 15px;
+}
+
+.glass p {
+  color: white;
 }
 
 .header {
@@ -209,7 +218,7 @@ ul {
 }
 
 .logo {
-  max-width: 150px;
+  max-width: 90px;
 }
 
 .logo-footer {
