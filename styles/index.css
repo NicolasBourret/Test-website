@@ -108,7 +108,7 @@ ul {
 }
 
 .fullscreen__content-center {
-  min-height: 100vh;
+  min-height: 80vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -120,7 +120,6 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 50px 0;
 }
 
 .halfscreen__content-center {
@@ -231,6 +230,10 @@ ul {
   margin-top: 50px;
 }
 
+.mt-20 {
+  margin-top: 20px;
+}
+
 .logo {
   max-width: 70px;
 }
@@ -288,6 +291,7 @@ ul {
   text-transform: uppercase;
   font-weight: bold;
   padding: 1rem 2rem;
+  font-size: 1.1rem;
 }
 
 .time-text {
@@ -566,6 +570,11 @@ ul {
 
   .halfscreen__content-center-responsive {
     flex-direction: column;
+  }
+
+  .mobile-nav-link {
+    font-size: 1.05;
+    border-bottom: 1px solid white;
   }
 }
 
