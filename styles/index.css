@@ -583,6 +583,10 @@ ul {
     margin-left: 0px;
   }
 
+  .mt-20-mobile {
+    margin-top: 30px;
+  }
+
   .display {
     display: none;
   }
