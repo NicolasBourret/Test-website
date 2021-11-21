@@ -664,7 +664,7 @@ ul {
 
   .mobile-separator {
     display: block;
-    margin: 50px 0;
+    margin: 70px 0;
   }
 
   .mobile-separator-item {
@@ -748,7 +748,7 @@ ul {
   }
 
   .swiper {
-    height: 400px;
+    height: 380px;
   }
 }
 
